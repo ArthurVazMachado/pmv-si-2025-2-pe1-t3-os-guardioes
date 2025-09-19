@@ -74,14 +74,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito                                                                                          | Prioridade | 
 |------|-----------------------------------------------------------------------------------------------------------------|------------| 
-|RF-001| A aplicação deve permitir o cadastro de usuários (moradores, comerciantes e autoridades).                       | ALTA  |  
-|RF-002| A aplicação deve permitir login com autenticação segura (e-mail/senha ou número de celular).                    | ALTA  | 
-|RF-003| A aplicação deve permitir o registro de ocorrências com descrição, data, hora e localização.                    | ALTA  | 
-|RF-004| A aplicação deve permitir a onsulta de ocorrências registradas em mapa ou lista filtrada por data/bairro.       | MÉDIA | 
-|RF-005| A aplicação deve permitir o recebimento de notificações push no celular ou e-mail.                              | MÉDIA | 
-|RF-006| A aplicação deve permitir o gerenciamento de usuário e das denúncias feitas no sistema.                         | ALTA  | 
-|RF-007| A aplicação deve permitir o agendamento de reuniões comunitárias (mutirões, encontros com polícia, palestras).  | ALTA  | 
-|RF-008| A aplicação deve permitir o feedback comunitário para avaliar a confiabilidade das informações postadas.        | ALTA  | 
+|RF-001| A aplicação deve permitir o cadastro de usuários.                                                               | ALTA  |  
+|RF-002| A aplicação deve permitir login.                                                                                | ALTA  | 
+|RF-003| A aplicação deve permitir o registro de ocorrências.                                                            | ALTA  | 
+|RF-004| A aplicação deve permitir o registro de descrição, data, hora e localização na ocorrência.                      | ALTA  | 
+|RF-005| A aplicação deve permitir a consulta de ocorrências em lista.                                                   | ALTA  | 
+|RF-006| A aplicação deve permitir a filtragem da lista de ocorrências.                                                  | ALTA  | 
+|RF-007| A aplicação deve permitir a consulta de ocorrências registradas em mapa.                                        | BAIXA | 
+|RF-008| A aplicação deve permitir a notificação de reuniões comunitárias (mutirões, encontros com polícia, palestras).  | ALTA  | 
+|RF-009| A aplicação deve permitir o feedback comunitário para avaliar a confiabilidade das informações postadas.        | ALTA  | 
 
 
 ### Requisitos não Funcionais
